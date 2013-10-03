@@ -24,6 +24,9 @@ gem 'coffee-rails', '~> 4.0.0'
 # See https://github.com/sstephenson/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 
+# Adding Bootstrap to make OMRails look pretty :)
+gem 'bootstrap-sass', '~> 2.3.2.1'
+
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
 
