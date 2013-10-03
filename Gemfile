@@ -44,6 +44,9 @@ group :doc do
   gem 'sdoc', require: false
 end
 
+# Adding Simple Form gem for form customization
+gem 'simple_form', '~> 3.0.0.rc'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
